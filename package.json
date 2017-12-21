@@ -1,0 +1,29 @@
+{
+  "name": "mean-angular2",
+  "version": "1.0.0",
+  "description": "MEAN Stuck with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhnmufees/Angular2-ionic2-database.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Mufees Majeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhnmufees/Angular2-ionic2-database/issues"
+  },
+  "homepage": "https://github.com/mhnmufees/Angular2-ionic2-database#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
